@@ -1,0 +1,114 @@
+.header
+{
+    width: 100%;
+    height: 100px;
+    
+    margin: 0%;
+    background-color: transparent;
+}
+.main-body
+{
+    background-image: url("uber.jpg");
+    width: 100%;
+    height: 600px;
+}
+.menuicon
+{
+    padding-left: 54px;
+    padding-top: 32px;
+    width: 26px;
+    float: left;
+}
+.menue
+{
+    width: 17px;
+    height: 3px;
+    background-color: black;
+    margin: 4px;
+}
+.uber-eats
+{
+    float: left;
+    padding-left: 34px;
+    padding-top: 34px;
+    
+}
+.icon-background
+{
+    border-radius: 37px;
+    height: 42px;
+    border: white;
+   font-family:UberMoveText, sans-serif;
+}
+.login
+{
+    padding-left: 1072px;
+    padding-top: 28px;
+    width: 148px;
+    height: 0px;
+}
+.sign-up
+{
+    float: left;
+    padding-left: 951px;
+}
+.sign-upbox
+{
+    border-radius: 96px;
+    width: 84px;
+    height: 42px;
+    font-size: 20px;
+    font-style: inherit;
+    color: white;
+    background-color: black
+}
+.body
+{
+width: 100%;
+height:290px
+}
+.font
+{
+    font-weight: 700;
+    font-size: xxx-large;
+    padding-left: 47px;
+    padding-top: -18vmin;
+    width: 50%;
+    float: left;
+    height: 50px;
+    font-family:  UberMove, sans-serif;
+}
+.order
+{
+    width: 151px;
+    height: 49px;
+    border: white;
+    font-size: 22px;
+    padding-top: 4px;
+}
+.form
+{
+    padding-left: 59px;
+    padding-top: 133px;
+}
+.delivery-address
+{
+    width: 517px;
+    height: 41px;
+    padding-top: 8px;
+    font-size: 20px;
+    border: white;
+}
+.find-food
+{
+    background: black;
+    height: 52px;
+    padding-top: 10px;
+    width: 109px;
+    font-size: 18px;
+    color: white;
+    border-radius: 12px;
+}  
+.icon{
+    width:100px;
+}
